@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1787371017 source:d:\251090052578\c_stack\stack.c
+	<stdio.h>
+	"stack.h"
+
+1787370936 d:\251090052578\c_stack\stack.h
+	<stdbool.h>
+
+1787370936 source:d:\251090052578\c_stack\stack.h
+	<stdbool.h>
+
+1787370791 source:d:\251090052578\c_stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1787371034 source:d:\251090052578\c_stack\q1_palindrome.c
+	<stdio.h>
+	<string.h>
+	"stack.h"
+
+1787371354 source:d:\251090052578\c_stack\q1_parentheses.c
+	<stdio.h>
+	"stack.h"
+
+1787371386 source:d:\251090052578\c_stack\q2_infixpostfix.c
+	<stdio.h>
+	<ctype.h>
+	"stack.h"
+
+1787371409 source:d:\251090052578\c_stack\q2_postfixevaluation.c
+	<stdio.h>
+	<ctype.h>
+	"stack.h"
+
+1787374284 source:d:\251090052556\lab4\c_stack\c_stack\q1_palindrome.c
+	<stdio.h>
+	<string.h>
+	"stack.h"
+
+1787374284 d:\251090052556\lab4\c_stack\c_stack\stack.h
+	<stdbool.h>
+
+1787374284 source:d:\251090052556\lab4\c_stack\c_stack\stack.c
+	<stdio.h>
+	"stack.h"
+
+1787374284 source:d:\251090052556\lab4\c_stack\c_stack\stack.h
+	<stdbool.h>
+
+1787374284 source:d:\251090052556\lab4\c_stack\stack.c
+	<stdio.h>
+	"stack.h"
+
+1787374284 d:\251090052556\lab4\c_stack\stack.h
+	<stdbool.h>
+
+1787374793 source:d:\251090052556\lab4\c_stack\q1.c
+	<stdio.h>
+	<string.h>
+	"stack.h"
+
+1787374800 source:d:\251090052556\lab4\c_stack\q2.c
+	<stdio.h>
+	"stack.h"
+
+1787374807 source:d:\251090052556\lab4\c_stack\q3.c
+	<stdio.h>
+	<ctype.h>
+	"stack.h"
+
+1787374813 source:d:\251090052556\lab4\c_stack\q4.c
+	<stdio.h>
+	<ctype.h>
+	"stack.h"
+
