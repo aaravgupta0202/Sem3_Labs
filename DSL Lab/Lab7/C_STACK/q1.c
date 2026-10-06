@@ -1,3 +1,6 @@
+//1. Array-Based Stack
+//i.Check whether a given string is a palindrome using stack. ➤ Use character stack to compare original and reversed string.
+
 
 #include <stdio.h>
 #include <string.h>

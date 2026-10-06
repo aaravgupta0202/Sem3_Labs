@@ -1,3 +1,7 @@
+//2. Linked List-Based Stack:
+//i.Write a program to input an infix expression and convert into its equivalent post fix form and display. Operands can be single characters.
+
+
 #include <stdio.h>
 #include <ctype.h>
 #include "stack.h"

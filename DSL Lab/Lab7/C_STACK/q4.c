@@ -1,3 +1,5 @@
+//2. Linked List-Based Stack:
+//ii.Evaluate a postfix expression using stack. ➤ Push operands, pop two for operator, and push result back.
 
 #include <stdio.h>
 #include <ctype.h>

@@ -1,6 +1,6 @@
 //Implement a C program to read, display, and find the product of two matrices using functions with appropriate parameters.
-//•The matrices must be created using dynamic memory allocation (malloc or calloc).
-//•Access matrix elements using array dereferencing (i.e., *(*(mat + i) + j) style).
+//>The matrices must be created using dynamic memory allocation (malloc or calloc).
+//>Access matrix elements using array dereferencing (i.e., *(*(mat + i) + j) style).
 #include <stdio.h>
 #include <stdlib.h>
 

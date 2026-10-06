@@ -1,3 +1,6 @@
+//1. Array-Based Stack
+//ii.Check for matching parentheses in each expression. ➤ Push opening brackets, pop for matching closing brackets.
+
 #include <stdio.h>
 #include "stack.h"
 int main()
